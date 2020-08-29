@@ -151,9 +151,12 @@ hr.small {
 /* Header */
 
 .header {
-    display: inline-block;
-    width: 50%;
-    height: 100%;
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 auto;
+   width: 85%;
+   padding-bottom: 30px;s
+   text-align: center;
     background: url(../img/bg.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
