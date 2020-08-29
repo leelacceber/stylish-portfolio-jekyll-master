@@ -155,8 +155,8 @@ hr.small {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
-   text-align: center;
+   padding-bottom: 30px;
+   text-align: left;
     background: url(../img/bg.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
