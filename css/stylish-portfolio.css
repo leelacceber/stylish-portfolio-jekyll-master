@@ -151,7 +151,7 @@ hr.small {
 /* Header */
 
 .header {
-    padding: 0 500px;
+    padding: 0;
     display: table;
     position: relative;
     width: 100%;
