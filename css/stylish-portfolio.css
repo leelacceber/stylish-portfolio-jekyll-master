@@ -39,7 +39,8 @@ body {
 }
 
 .bg-primary {
-  background-color: #8ab22e;
+    color: #152812;
+    background-color: #90b081;
 }
 
 
@@ -183,7 +184,7 @@ hr.small {
 }
 
 .simple-text h3 {
-    color: #337ab7;
+    color: #216100;
     margin-top: 5px;
 }
 
