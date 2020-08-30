@@ -17,13 +17,6 @@ body {
     color: #152812;
 }
 
-a {
-  color: #8ab22e;
-}
-a:focus {
-  color: #216100;
-}
-
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -191,7 +184,7 @@ hr.small {
 }
 
 .simple-text h3 {
-    color: #8ab22e;
+    color: #216100;
     margin-top: 5px;
 }
 
