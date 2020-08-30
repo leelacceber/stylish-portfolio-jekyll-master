@@ -1184,7 +1184,7 @@ h5,
 h6,
 .h1,
 .h2,
-.h3 
+.h3,
 .h4,
 .h5,
 .h6 {
@@ -1227,7 +1227,7 @@ h2,
 .h2,
 h3,
 .h3 {
-  margin-top: 5px;
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 h1 small,
@@ -1295,6 +1295,7 @@ p {
   margin: 0 0 10px;
 }
 .lead {
+  margin-bottom: 20px;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
