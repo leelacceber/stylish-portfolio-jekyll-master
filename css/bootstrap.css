@@ -1089,8 +1089,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
-  background-color: #fff;
+  color: #152812;
+  background-color: #e6eee3;
 }
 input,
 button,
@@ -1372,11 +1372,11 @@ a.text-danger:hover {
   color: #843534;
 }
 .bg-primary {
-  color: #fff;
-  background-color: #337ab7;
+  color: #e6eee3;
+  background-color: #8ab22e;
 }
 a.bg-primary:hover {
-  background-color: #286090;
+  background-color: #216100;
 }
 .bg-success {
   background-color: #dff0d8;
