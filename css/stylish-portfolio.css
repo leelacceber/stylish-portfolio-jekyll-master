@@ -14,6 +14,8 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #152812;
+    background-color: #e6eee3;
 }
 
 .text-vertical-center {
@@ -35,6 +37,11 @@ body {
     margin: 0 auto;
     padding: 0 15px;
 }
+
+.bg-primary {
+  background-color: #8ab22e;
+}
+
 
 /* Custom Button Styles */
 
@@ -173,11 +180,6 @@ hr.small {
 
 .simple-text {
     padding: 50px;
-}
-
-.bg-primary {
-  color: #777;
-  background-color: #8ab22e;
 }
 
 .simple-text h3 {
