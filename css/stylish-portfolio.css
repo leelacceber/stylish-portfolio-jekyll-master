@@ -175,6 +175,10 @@ hr.small {
     padding: 50px;
 }
 
+.simple-text h3 {
+    color: #337ab7;
+}
+
 /* Services */
 
 .services {
