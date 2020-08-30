@@ -19,10 +19,10 @@ body {
 }
 
 a {
-  color: #699b2c;
+  color: #8ab22e;
 }
 a:hover {
-  color: #2d4a1a;
+  color: #216100;
 }
 
 .text-vertical-center {
@@ -192,7 +192,7 @@ hr.small {
 }
 
 .simple-text h3 {
-    color: #699b2c;
+    color: #8ab22e;
     margin-top: 5px;
 }
 
