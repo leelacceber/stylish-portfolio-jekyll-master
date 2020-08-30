@@ -177,6 +177,11 @@ hr.small {
 
 .simple-text h3 {
     color: #337ab7;
+    margin-top: 5px;
+}
+
+.simple-text lead {
+  margin-bottom: 0;
 }
 
 /* Services */
