@@ -15,6 +15,7 @@ body {
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #152812;
+    background-color: #f9fcf2;
 }
 
 a {
@@ -46,7 +47,7 @@ a:hover {
 
 .bg-primary {
     color: #152812;
-    background-color: #f6f7cd;
+    background-color: #e0eaf3;
 }
 
 
