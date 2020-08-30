@@ -175,6 +175,11 @@ hr.small {
     padding: 50px;
 }
 
+.simple-text bg-primary {
+  color: #777;
+  background-color: #8ab22e;
+}
+
 .simple-text h3 {
     color: #337ab7;
     margin-top: 5px;
