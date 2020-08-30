@@ -20,6 +20,8 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    border: 1px solid #dddddd; //
+
 }
 
 .text-vertical-center h1 {
@@ -30,7 +32,6 @@ body {
 }
 
 .text-vertical-center h3 {
-    width: 800px;
     margin: 0 10%;
     padding: 0;
 }
