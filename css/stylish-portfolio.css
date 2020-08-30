@@ -15,7 +15,6 @@ body {
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #152812;
-    background-color: #e6eee3;
 }
 
 .text-vertical-center {
@@ -40,7 +39,7 @@ body {
 
 .bg-primary {
     color: #152812;
-    background-color: #90b081;
+    background-color: #e6eee3;
 }
 
 
