@@ -20,13 +20,12 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    border: 1px solid #dddddd; //
 
 }
 
 .text-vertical-center h1 {
     margin: 0;
-    padding: 0 5%;
+    padding: 0;
     font-size: 4.5em;
     font-weight: 700;
 }
@@ -34,7 +33,7 @@ body {
 .text-vertical-center h3 {
     max-width: 700px; 
     margin: 0 auto;
-    padding: 0 5%;
+    padding: 0;
 }
 
 /* Custom Button Styles */
@@ -172,7 +171,7 @@ hr.small {
 
 /* About */
 
-.about {
+.simple-text {
     padding: 50px 0;
 }
 
@@ -226,23 +225,6 @@ hr.small {
 
 .call-to-action .btn {
     margin: 10px;
-}
-
-/* Map */
-
-.map {
-    height: 500px;
-}
-
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-}
-
-/*disable custom maps scrolling behaviour*/
-.scrolloff {
-    pointer-events: none;
 }
 
 /* Footer */
