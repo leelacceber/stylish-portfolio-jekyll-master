@@ -17,6 +17,13 @@ body {
     color: #152812;
 }
 
+a {
+  color: #699b2c;
+}
+a:hover {
+  color: #2d4a1a;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
