@@ -23,3 +23,13 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+
+theme: jekyll-theme-tactile
