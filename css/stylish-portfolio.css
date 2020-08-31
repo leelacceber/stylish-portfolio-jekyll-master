@@ -26,10 +26,6 @@ a:focus {
   color: #216100;
 }
 
-h1 {
-  font-size: 30px;
-}
-
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -40,7 +36,7 @@ h1 {
 .text-vertical-center h1 {
     margin: 0;
     padding: 0 15px;
-    font-size: 4.5em;
+    font-size: 4em;
     font-weight: 700;
 }
 
