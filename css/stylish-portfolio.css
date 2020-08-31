@@ -263,3 +263,7 @@ footer {
 footer a {
   color: #216100;
 }
+
+footer p {
+    vertical-align: middle;
+}
