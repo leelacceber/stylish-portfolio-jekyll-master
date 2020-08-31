@@ -259,3 +259,7 @@ footer {
     padding: 10px 0;
     background-color: #90b081;
 }
+
+footer a {
+  color: #216100;
+}
