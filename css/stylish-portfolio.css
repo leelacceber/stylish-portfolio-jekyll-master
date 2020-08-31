@@ -26,6 +26,10 @@ a:focus {
   color: #216100;
 }
 
+h1 {
+  font-size: 34px;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
