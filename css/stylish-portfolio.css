@@ -197,6 +197,10 @@ hr.small {
     margin-top: 5px;
 }
 
+.simple-text h5 {
+    margin-top: 20px;
+}
+
 .simple-text lead {
   margin-bottom: 0;
 }
