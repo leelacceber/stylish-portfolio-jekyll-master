@@ -201,6 +201,13 @@ hr.small {
   margin-bottom: 0;
 }
 
+/* Skills */
+
+.col-xs-3 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
 /* Services */
 
 .services {
