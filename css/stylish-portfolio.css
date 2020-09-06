@@ -51,10 +51,6 @@ a:focus {
     background-color: #e0eaf3;
 }
 
-img .img-portfolio {
-    max-width: 350px
-}
-
 /* Custom Button Styles */
 
 .btn-dark {
@@ -252,6 +248,7 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+    max-width: 350px;
 }
 
 .img-portfolio:hover {
