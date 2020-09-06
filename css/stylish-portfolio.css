@@ -212,6 +212,12 @@ hr.small {
   padding-left: 0px;
 }
 
+/* Projects*/
+
+p .text-centre {
+    font-size:14px
+}
+    
 /* Services */
 
 .services {
