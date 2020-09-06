@@ -248,6 +248,9 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+}
+
+col-sm-5 img {
     max-width: 350px;
 }
 
