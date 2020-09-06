@@ -254,6 +254,7 @@ p .text-centre {
 
 .img-portfolio {
     margin: 0 auto;
+    max-width: 350px;
 }
 
 .img-portfolio:hover {
