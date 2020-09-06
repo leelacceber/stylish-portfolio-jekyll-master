@@ -51,6 +51,9 @@ a:focus {
     background-color: #e0eaf3;
 }
 
+img .img-portfolio {
+    max-width: 350px
+}
 
 /* Custom Button Styles */
 
